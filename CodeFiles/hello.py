@@ -1,4 +1,4 @@
-name = "Data Science Team"
+name = "Your Team Name"
 
 print(f"Hello there, {name}!")
 
